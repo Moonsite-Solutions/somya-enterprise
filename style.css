@@ -2891,3 +2891,12 @@ section.categories .category-content a{
 .jarallax.min-height300 {
     min-height: 300px;
 }
+
+
+/* whatsapp button
+--------------------------------------------------------------*/
+.whatsapp{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
